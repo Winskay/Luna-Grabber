@@ -1,0 +1,48 @@
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,497 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,497 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,497 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,498 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,498 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,498 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,499 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,499 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,499 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,500 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,500 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,500 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,500 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,500 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,501 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,501 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,501 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,501 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,501 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,502 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,502 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,502 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,502 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-05-28 18:46:53,502 - DEBUG - STREAM b'IDAT' 91 1063
+[connectionpool.py:1055] - 2024-05-28 18:49:21,079 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:549] - 2024-05-28 18:49:22,490 - DEBUG - https://discord.com:443 "GET /api/webhooks/1244832935753023549/JmFfb7pQE4TV0Q-TQ-myAg7vgkp3EJgXFFOo1fokIIS3GzX6LvSDbbhLnkxgzLKN_RlU HTTP/1.1" 200 None
+[builder.py:514] - 2024-05-28 18:49:53,968 - INFO - Retrieved filename: Built
+[connectionpool.py:1055] - 2024-05-28 18:49:53,970 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:549] - 2024-05-28 18:49:54,246 - DEBUG - https://discord.com:443 "GET /api/webhooks/1244832935753023549/JmFfb7pQE4TV0Q-TQ-myAg7vgkp3EJgXFFOo1fokIIS3GzX6LvSDbbhLnkxgzLKN_RlU HTTP/1.1" 200 None
+[builder.py:514] - 2024-05-28 18:49:54,386 - INFO - Retrieved filename: Built
+[builder.py:573] - 2024-05-28 18:49:54,391 - INFO - Successfully changed config
+[builder.py:491] - 2024-05-28 18:49:54,392 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:491] - 2024-05-28 18:49:54,392 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:573] - 2024-05-28 18:49:55,084 - INFO - Successfully changed config
+[connectionpool.py:1055] - 2024-05-28 18:49:55,086 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:549] - 2024-05-28 18:49:55,517 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1055] - 2024-05-28 18:49:55,519 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:549] - 2024-05-28 18:49:56,108 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240528%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240528T174954Z&X-Amz-Expires=300&X-Amz-Signature=026d529eb0be058163e911f1e57bf1ae928867f0389d21a0234643b48c5d5cb6&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=67031040&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:861] - 2024-05-28 18:52:38,252 - INFO - Removing MetaData
+[builder.py:879] - 2024-05-28 18:52:40,129 - INFO - Renaming Entry Point
+[builder.py:893] - 2024-05-28 18:52:42,153 - INFO - Adding Certificate
+[builder.py:693] - 2024-05-28 18:52:44,018 - INFO - Successfully compiled Built.exe with pyinstaller
+[builder.py:586] - 2024-05-28 18:52:44,551 - ERROR - Error with file pumper: [Errno 13] Permission denied: './Built.exe'
+[builder.py:758] - 2024-05-28 18:52:44,567 - INFO - Successfully removed directory: ./build
+[builder.py:767] - 2024-05-28 18:52:44,568 - INFO - Successfully removed file: ./Built.exe.spec
+[builder.py:767] - 2024-05-28 18:52:44,568 - INFO - Successfully removed file: loader-o.py
+[builder.py:767] - 2024-05-28 18:52:44,569 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:767] - 2024-05-28 18:52:44,569 - INFO - Successfully removed file: luna.aes
